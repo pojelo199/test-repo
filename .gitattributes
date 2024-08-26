@@ -1,1 +1,2 @@
-*.txt text working-tree-encoding=UTF-16
+*.txt text working-tree-encoding=UTF-16LE
+*.txt text eol=lf
